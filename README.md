@@ -1,4 +1,4 @@
-# hackathon2024
+# LCL x Google Hackathon
 
 ## Install dependencies:
 `cd front && npm install && cd ../back && npm install`
